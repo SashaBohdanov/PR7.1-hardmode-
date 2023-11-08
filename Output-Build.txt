@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: UnitTest1, Configuration: Debug x64 ------
+1>UnitTest1.vcxproj -> D:\Pr5.2\x64\Debug\UnitTest1.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
+========== Build started at 21:44 and took 00,833 seconds ==========
